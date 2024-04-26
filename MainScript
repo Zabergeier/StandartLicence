@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Aufgabe3stylesheed.css"type="text/css">
+    <title>Aufgabe4</title>
+</head>
+<body>
+    Container
+    <div id="Container">
+        <div id="gelb">Div1</div>
+        <div id="grun">Div2</div>
+        <div id="blau">Div3</div>
+
+
+    </div>
+</body>
+</html>
